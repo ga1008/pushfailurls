@@ -1,2 +1,4 @@
-tqdm
+redis
 pymongo
+tqdm
+setuptools

@@ -17,6 +17,9 @@
 ```shell script
 # 看具体版本，包在 dist 文件夹下
 $ pip install pushurls.tar.gz
+
+# 或者安装在线版本
+$ pip install pushurls
 ```
 
 ### 使用：

@@ -5,10 +5,10 @@ using_setuptools = True
 
 setup_args = {
     'name': 'pushurls',
-    'version': '0.0.2',
+    'version': '0.0.3',
     'url': 'https://github.com/ga1008/pushfailurls',
     'description': "a tool to push the spider's fail urls in mongodb to redis",
-    # 'long_description': open('README.md', encoding="utf-8").read(),
+    'long_description': open('README.md', encoding="utf-8").read(),
     'author': 'Guardian',
     'author_email': 'zhling2012@live.com',
     'maintainer': 'Guardian',
